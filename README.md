@@ -1,10 +1,8 @@
 
-<img button="https://x.com/nouwushka" align="right" src="uwushka.jpg" width="360px" height="650px">
+<img align="right" src="uwushka.jpg" width="360px" height="650px">
 
 <div align="center">
 <img src="uwuicon.jpg" title="uwushka" width="60" height="60">
-
-## [nouwushka.github.io](nouwushka.github.io)
 
 ### About me:
 
@@ -24,7 +22,9 @@ echo -e "\033[38;2;75;207;251m████████████████�
 ```
 </div>
 
+<img src="uwusiteicon.jpg" title="site" width="30" height="30">
 
+##### [nouwushka.github.io](https://nouwushka.github.io)
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="20" height="20">
 
