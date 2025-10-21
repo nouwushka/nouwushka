@@ -6,6 +6,10 @@
 
 ### About me:
 
+
+#### <img src="uwusiteicon.jpg" title="site" width="20" height="20"> [**nouwushka.github.io**](https://nouwushka.github.io) <img src="uwusiteicon.jpg" title="site" width="20" height="20">
+
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="20" height="20">
 
   `MarkDown Senior`
@@ -21,10 +25,6 @@ echo -e "\033[38;2;245;171;185m████████████████�
 echo -e "\033[38;2;75;207;251m█████████████████████"
 ```
 </div>
-
-<img src="uwusiteicon.jpg" title="site" width="30" height="30">
-
-##### [nouwushka.github.io](https://nouwushka.github.io)
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="20" height="20">
 
