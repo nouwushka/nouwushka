@@ -4,8 +4,6 @@
 <div align="center">
 <img src="uwuicon.jpg" title="uwushka" width="60" height="60">
 
-#### It's not hype!
-
 ### About me:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="20" height="20">
