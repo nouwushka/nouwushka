@@ -1,13 +1,13 @@
 
-<img align="right" src="uwushka.jpg" width="360px" height="650px">
+<img align="right" src="img/uwushka.jpg" width="360px" height="650px">
 
 <div align="center">
-<img src="uwuicon.jpg" title="uwushka" width="60" height="60">
+<img src="img/uwuicon.jpg" title="uwushka" width="60" height="60">
 
 ### About me:
 
 
-#### <img src="uwusiteicon.jpg" title="site" width="20" height="20"> [**nouwushka.github.io**](https://nouwushka.github.io) <img src="uwusiteicon.jpg" title="site" width="20" height="20">
+#### <img src="img/uwusiteicon.jpg" title="site" width="20" height="20"> [**nouwushka.github.io**](https://nouwushka.github.io) <img src="uwusiteicon.jpg" title="site" width="20" height="20">
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="20" height="20">
