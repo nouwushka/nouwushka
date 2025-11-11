@@ -6,10 +6,13 @@
 
 ### About me:
 
+<<<<<<< HEAD
 
 #### <img src="img/uwusiteicon.jpg" title="site" width="20" height="20"> [**nouwushka.github.io**](https://nouwushka.github.io) <img src="uwusiteicon.jpg" title="site" width="20" height="20">
 
 
+=======
+>>>>>>> bf2db7d (Update: readme)
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="20" height="20">
 
   `MarkDown Senior`
